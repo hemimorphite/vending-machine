@@ -1,0 +1,6 @@
+P01;biskuit;6000;5;biskuit.jpg
+P02;chips;8000;0;chips.jpg
+P03;oreo;10000;5;oreo.jpg
+P04;tango;12000;5;tango.jpg
+P05;cokelat;15000;5;cokelat.jpg
+P06;fanta;10000;5;fanta.jpg
